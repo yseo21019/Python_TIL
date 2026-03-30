@@ -251,8 +251,9 @@ df = pd.DataFrame(data)
   - print()를 이용해 새로운 열이 추가된 DataFrame의 상단 5행(head)을 출력하세요.
 ```
 
-<!-- 이 부분을 지우고 인증 사진을 제출해주세요.-->
-
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
 
 
 ### 🎉 수고하셨습니다.
